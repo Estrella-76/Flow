@@ -11,6 +11,12 @@
 body{
     font-family: "Poppins", sans-serif;
     background-image: url(imagens/noche.jpg);
+    background-color: rgb(50, 50, 50);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-style: normal;
 
 }
